@@ -1,0 +1,6 @@
+{
+    "NUM_CLIENTS": 1,
+    "ROUNDS": 50,
+    "EPOCHS": 1,
+    "BATCH_SIZE": 32
+}
